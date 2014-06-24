@@ -1,15 +1,9 @@
-lib-cov
-*.seed
-*.log
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
+# Temporary files
+*#*
+*~
 
-pids
-logs
-results
-
-npm-debug.log
+# Library files
 node_modules
+
+# Sourcemap
+*.map
